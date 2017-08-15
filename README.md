@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Humans
+
+Shiva san going to travel africa by van Bitch
